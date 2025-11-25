@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hello!
 
 My name is Lucas!
+
+The river doesn't want to end; it wants to become bigger and deeper.
 
 <!--
 **fatorarpolinomio/fatorarpolinomio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
