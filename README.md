@@ -68,18 +68,3 @@ My primary academic and career focus lies in **Markov Decision Processes (MDPs)*
 </div>
 
 ---
-
-### 📊 Telemetry
-
-<div align="center">
-  <img height="170em" src="[https://github-readme-stats.vercel.app/api?username=fatorarpolinomio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)" alt="GitHub Stats" />
-  <img height="170em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=fatorarpolinomio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=fatorarpolinomio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)" alt="Top Languages" />
-</div>
-
----
-
-### 🎸 Beyond the Terminal
-
-When I'm away from the keyboard, you'll usually find me practicing electric bass (from *Rage Against the Machine* and *RHCP* to *Gojira* and *Rush*), lifting weights, running outdoors, or theorycrafting Yu-Gi-Oh! TCG decks.
-
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1793d1,50:16222a,100:0d1117&height=110§ion=footer](https://capsule-render.vercel.app/api?type=waving&color=0:1793d1,50:16222a,100:0d1117&height=110§ion=footer)" width="100%" />
