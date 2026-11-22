@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16222a,100:1793d1&height=210§ion=header&text=Lucas%20Neves%20Souza&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Markov%20Decision%20Processes%20%26%20RL%20%7C%20Software%20Engineering%20%26%20Game%20Dev&descSize=15&descAlignY=58&descColor=7aa2f7&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16222a,100:1793d1&height=210§ion=header&text=Lucas%20Neves%20Souza&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Markov%20Decision%20Processes%20%26%20RL%20%7C%20Software%20Engineering%20%26%20Game%20Dev&descSize=15&descAlignY=58&descColor=7aa2f7&animation=fadeIn)" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16222a,100:1793d1&height=210§ion=header&text=Lucas%20Neves%20Souza&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Markov%20Decision%20Processes%20%26%20RL%20%7C%20Software%20Engineering%20%26%20Game%20Dev&descSize=15&descAlignY=58&descColor=7aa2f7&animation=fadeIn" width="100%" />
 
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=7AA2F7¢er=true&vCenter=true&multiline=false&width=700&height=35&lines=B.Sc.+Information+Systems+%40+EACH-USP;Focused+on+Markov+Decision+Processes+%26+Reinforcement+Learning;FAPESP+Researcher+%7C+Software+Engineering+%26+Serious+Games;C%2B%2B+%7C+Python+%7C+Go+%7C+C%23+%7C+Simulation+%26+Game+Engines;Director+of+Project+Organization+%40+Conway-USP](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=7AA2F7¢er=true&vCenter=true&multiline=false&width=700&height=35&lines=B.Sc.+Information+Systems+%40+EACH-USP;Focused+on+Markov+Decision+Processes+%26+Reinforcement+Learning;FAPESP+Researcher+%7C+Software+Engineering+%26+Serious+Games;C%2B%2B+%7C+Python+%7C+Go+%7C+C%23+%7C+Simulation+%26+Game+Engines;Director+of+Project+Organization+%40+Conway-USP)" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=7AA2F7¢er=true&vCenter=true&multiline=false&width=700&height=35&lines=B.Sc.+Information+Systems+%40+EACH-USP;Focused+on+Markov+Decision+Processes+%26+Reinforcement+Learning;FAPESP+Researcher+%7C+Software+Engineering+%26+Serious+Games;C%2B%2B+%7C+Python+%7C+Go+%7C+C%23+%7C+Simulation+%26+Game+Engines;Director+of+Project+Organization+%40+Conway-USP" alt="Typing SVG" />
 
   <p>
-    <img src="[https://img.shields.io/badge/USP-EACH%20%7C%20Information%20Systems-005596?style=for-the-badge&logo=academia&logoColor=white](https://img.shields.io/badge/USP-EACH%20%7C%20Information%20Systems-005596?style=for-the-badge&logo=academia&logoColor=white)" alt="USP" />
-    <img src="[https://img.shields.io/badge/FAPESP-Scientific%20Initiation-1a1b26?style=for-the-badge&logo=googlescholar&logoColor=7aa2f7](https://img.shields.io/badge/FAPESP-Scientific%20Initiation-1a1b26?style=for-the-badge&logo=googlescholar&logoColor=7aa2f7)" alt="FAPESP" />
-    <img src="[https://img.shields.io/badge/Conway--USP-Project%20Director-1a1b26?style=for-the-badge&logo=opengl&logoColor=bb9af7](https://img.shields.io/badge/Conway--USP-Project%20Director-1a1b26?style=for-the-badge&logo=opengl&logoColor=bb9af7)" alt="Conway-USP" />
+    <img src="https://img.shields.io/badge/USP-EACH%20%7C%20Information%20Systems-005596?style=for-the-badge&logo=academia&logoColor=white" alt="USP" />
+    <img src="https://img.shields.io/badge/FAPESP-Scientific%20Initiation-1a1b26?style=for-the-badge&logo=googlescholar&logoColor=7aa2f7" alt="FAPESP" />
+    <img src="https://img.shields.io/badge/Conway--USP-Project%20Director-1a1b26?style=for-the-badge&logo=opengl&logoColor=bb9af7" alt="Conway-USP" />
   </p>
 </div>
 
