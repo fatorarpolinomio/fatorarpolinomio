@@ -1,9 +1,8 @@
-### `>_` System Overview
+### `>_` Overview
 
 ```text
-lucas@endeavouros
+Lucas Neves Souza
 ------------------
-OS:             EndeavourOS (Arch Linux) · KDE Plasma on Wayland
 Degree:         B.Sc. in Computer Information Systems @ EACH-USP
 Career Focus:   Markov Decision Processes (MDPs) & Reinforcement Learning
 FAPESP Grant:   Software Engineering & Serious Games for Treatment
