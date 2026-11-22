@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/USP-EACH%20%7C%20Information%20Systems-005596?style=for-the-badge&logo=academia&logoColor=white" alt="USP" />
     <img src="https://img.shields.io/badge/FAPESP-Scientific%20Initiation-1a1b26?style=for-the-badge&logo=googlescholar&logoColor=7aa2f7" alt="FAPESP" />
-    <img src="https://img.shields.io/badge/Conway--USP-Project%20Director-1a1b26?style=for-the-badge&logo=opengl&logoColor=bb9af7" alt="Conway-USP" />
+    <img src="https://img.shields.io/badge/Conway--USP-1a1b26?style=for-the-badge&logo=opengl&logoColor=bb9af7" alt="Conway-USP" />
   </p>
 </div>
 
